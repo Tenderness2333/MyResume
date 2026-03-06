@@ -152,7 +152,7 @@ Why use Jekyll instead of other static site generators?
 
 What if I cannot install Git on my computer?
 
-You can download Git from the official website. Choose the version that matches your operating system. After downloading , follow the instruction they give and use the default settings. If you still have problems, make sure you download the right version, or ask for help on the Stack Overflow website which can be found from Google.
+* You can download Git from the official website. Choose the version that matches your operating system. After downloading , follow the instruction they give and use the default settings. If you still have problems, make sure you download the right version, or ask for help on the Stack Overflow website which can be found from Google.
 
 Why is my resume not updating after I changed the Markdown file?
 * This is a good question, After you change your Markdown file and push to GitHub, GitHub Pages will build your website automatically. You may need to wait a few minutes. Just make sure you push your file to GitHub correctly.
