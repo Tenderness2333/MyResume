@@ -14,7 +14,7 @@ Education
 * **University of Manitoba**  - B.Sc. Computer Science 
 * Expected Graduation: 2026
 
-* I learned something about algorithm , data structure , AI, database, distribution system, LC3
+* Relevant Coursework: algorithm , data structure , AI, database, distributed system, LC3
 
 Technical skills
 ==================
@@ -30,7 +30,6 @@ Technical skills
 
 Projects
 ============
-
-
-I did projects about AI ordering system by API and internation e-commerce website.
+* AI ordering system by API
+* international e-commerce website.
 
