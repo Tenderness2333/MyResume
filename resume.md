@@ -1,10 +1,10 @@
-Contract
+Contact
 ==========
 
 * Name: Ruitian Fan
 * Email: fanr2@myumanitoba.ca
 * Github: [github.com/Tenderness2333](https://github.com/Tenderness2333)
-* Phone: 3658881747
+* Phone: 365-888-1747
 
 
 
